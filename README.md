@@ -1,2 +1,3 @@
 https://public.tableau.com/app/profile/tsholofelo.molf/viz/Book1_17769306334410/Dashboard1?publish=yes
 Click here to view the dashboard
+This project involved analyzing COVID-19 global datasets. The objective was to derive meaningful insights on infection rates, death trends, and vaccination progress across different countries and continents. The data was stored and processed using Microsoft SQL Server, where extensive data cleaning, transformation, and exploratory analysis were performed. SQL techniques such as joins, aggregations and Common Table Expressions (CTEs) were used to prepare analytical datasets and generate meaningful insights. Tableau was then used to visualize the processed data by developing dashboards that display key COVID-19 indicators.
